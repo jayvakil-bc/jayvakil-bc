@@ -1,4 +1,4 @@
-### Hi there 👋
+## Student, Learner, Developer👋
 
 <!--
 **jayvakil-bc/jayvakil-bc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages Known </>
+<img width=50 src="icons/java.png"> <img width=50 src="icons/c-document.png">   <img width=50 src="icons/3344325.png">    
+                <img width=50 src="icons/file.png"> <img width=40 src="icons/c-.png"> 
+                                      <img width=40 src="icons/css-file-format.png"> <img width=40 src="icons/html.png"> 
+<hr>
+
+### Tools, Technologies and Frameworks Known 🧰
+<img width=40 src="icons/firebase.png"> <img width=40 src="icons/api.png"> <img width=40 src="icons/file (1).png"> <img width=40 src="icons/swing.png"> <img width=40 src="icons/gg.png"> 
