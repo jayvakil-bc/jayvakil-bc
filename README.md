@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 
 <hr>
 <img align="center" src="https://www.codewars.com/users/jayvakil/badges/large"><p>
-<img align="center" src="icons/lang.svg"/> 
-<img width="240" align="right" src="icons/emoji.png">
+<img align="center" src="icons/lang.svg"/> <img width="220" align="right" src="icons/emoji.png">
 </p>
