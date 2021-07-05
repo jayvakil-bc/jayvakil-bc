@@ -1,6 +1,6 @@
 <img width="200" align="right" src="icons/emoji.png">
 
-## Student, Learner, Developer👋
+## Student, Learner 👋
 
 ### Links <img width=20 src="icons/website.png">
 <a href="https://www.codewars.com/users/jayvakil"><img width=31 src="https://docs.codewars.com/logo.svg"></a>
