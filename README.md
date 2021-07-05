@@ -1,6 +1,6 @@
 ## Student, Learner, Developer👋
 ### Links <img width=20 src="icons/website.png">
-<a href="https://https://www.codewars.com/users/jayvakil"><img width=31 src="https://docs.codewars.com/logo.svg"></a>
+<a href="https://www.codewars.com/users/jayvakil"><img width=31 src="https://docs.codewars.com/logo.svg"></a>
 <a href="https://twitter.com/JayVakil1"><img width=30 src="https://image.similarpng.com/very-thumbnail/2020/06/Black-icon-Twitter-logo-transparent-PNG.png"></a>
 <a href="https://www.instagram.com/jay._.vakil/"><img width=30 src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>
 <a href="https://www.reddit.com/user/JayVakil"><img width=30 src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png"></a>
