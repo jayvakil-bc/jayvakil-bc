@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Languages Known </>
-<img width=50 src="icons/java.png"> <img width=50 src="icons/c-document.png">   <img width=50 src="icons/3344325.png">    
-                <img width=50 src="icons/file.png"> <img width=40 src="icons/c-.png"> 
-                                      <img width=40 src="icons/css-file-format.png"> <img width=40 src="icons/html.png"> 
+<img width=50 src="icons/java.png"> <img width=50 src="icons/c-document.png">   <img width=50 src="icons/3344325.png">   <img width=50 src="icons/file.png"> <img width=40 src="icons/c-.png"> <img width=40 src="icons/css-file-format.png"> <img width=40 src="icons/html.png"> 
 <hr>
 
 ### Tools, Technologies and Frameworks Known 🧰
