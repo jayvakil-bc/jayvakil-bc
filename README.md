@@ -1,4 +1,7 @@
+<img width="200" align="right" src="icons/emoji.png">
+
 ## Student, Learner, Developer👋
+
 ### Links <img width=20 src="icons/website.png">
 <a href="https://www.codewars.com/users/jayvakil"><img width=31 src="https://docs.codewars.com/logo.svg"></a>
 <a href="https://twitter.com/JayVakil1"> <img width=30 src="https://image.similarpng.com/very-thumbnail/2020/06/Black-icon-Twitter-logo-transparent-PNG.png"></a>
@@ -27,6 +30,6 @@ Here are some ideas to get you started:
 <img width=40 src="icons/firebase.png"> <img width=40 src="icons/api.png"> <img width=40 src="icons/file (1).png"> <img width=40 src="icons/swing.png"> <img width=40 src="icons/gg.png"> 
 
 <hr>
-<img align="center" src="https://www.codewars.com/users/jayvakil/badges/large"><p>
-<img align="center" src="icons/lang.svg"/> <img width="200" align="right" src="icons/emoji.png">
-</p>
+<img align="center" src="https://www.codewars.com/users/jayvakil/badges/large">
+<img align="center" src="icons/lang.svg"/> 
+
