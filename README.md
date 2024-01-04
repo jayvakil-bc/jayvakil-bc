@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 
 <hr>
 <img align="center" src="https://www.codewars.com/users/jayvakil/badges/large">
-<img align="center" src="icons/lang.svg"/> 
 
