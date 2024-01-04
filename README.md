@@ -5,7 +5,7 @@
 ### Links <img width=20 src="icons/website.png">
 <a href="https://www.codewars.com/users/jayvakil"><img width=31 src="https://docs.codewars.com/logo.svg"></a>
 <a href="https://twitter.com/JayVakil1"> <img width=30 src="https://image.similarpng.com/very-thumbnail/2020/06/Black-icon-Twitter-logo-transparent-PNG.png"></a>
-<a href="https://www.instagram.com/jay._.vakil/"> <img width=30 src="https://image.flaticon.com/icons/png/512/174/174855.png"></a>
+<a href="https://www.instagram.com/jay._.vakil/"> <img width=30 src="https://static-00.iconduck.com/assets.00/instagram-icon-2048x2048-uc6feurl.png"></a>
 <a href="https://www.reddit.com/user/JayVakil"> <img width=30 src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png"></a>
 <a href="https://www.linkedin.com/in/jay-vakil-bb1192204"> <img width=30 src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
 <!--
