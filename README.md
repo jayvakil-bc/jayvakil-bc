@@ -7,7 +7,7 @@
 <a href="https://twitter.com/JayVakil1"> <img width=30 src="https://image.similarpng.com/very-thumbnail/2020/06/Black-icon-Twitter-logo-transparent-PNG.png"></a>
 <a href="https://www.instagram.com/jay._.vakil/"> <img width=30 src="https://static-00.iconduck.com/assets.00/instagram-icon-2048x2048-uc6feurl.png"></a>
 <a href="https://www.reddit.com/user/JayVakil"> <img width=30 src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png"></a>
-<a href="https://www.linkedin.com/in/jay-vakil-bb1192204"> <img width=30 src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
+<a href="https://www.linkedin.com/in/jay-vakil/"> <img width=30 src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"></a>
 <!--
 **jayvakil-bc/jayvakil-bc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
